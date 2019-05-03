@@ -2,7 +2,11 @@
 
 void get_random_inarray();
 void pick_two();
-void add_two_print();
+void add_two_print(){
+	printf("sujin will get A+");
+	printf("sure sure!");
+
+};
 int main(){
 	int myarray[10];
 	printf("Kindly permit my code review");
